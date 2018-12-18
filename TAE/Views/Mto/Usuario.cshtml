@@ -1,0 +1,74 @@
+﻿@model TAE.Models.Usuario
+@{
+    ViewBag.Title = "Usuario";
+    Layout = "~/Pages/Shared/_LayoutMto.cshtml";
+}
+<h2 class="text-center text-info" style="margin-top:50px">Usuarios</h2>
+
+<p class="btn btn-success btn-md">
+    <a href="0">Crear</a>
+</p> 
+
+<form method="POST">
+    <p>
+        <label class="icon-user icon-large" for="id" style="width:100px">ID: </label>
+        @Html.TextBoxFor(m => @Model.id, new { @readonly = "readonly" })
+    </p>
+    <p>
+        <label class="icon-user icon-large" for="email" style="width:100px">Email: </label>
+        @Html.TextBox("email", @Model.email)
+    </p>
+    <p>
+        <label class="icon-user icon-large" for="password" style="width:100px">Password: </label>
+        @Html.Password("password", @Model.password)
+    </p>
+    <p>
+        <label class="icon-user icon-large" for="imagen" style="width:100px">Imagen: </label>
+        @Html.TextBox("imagen", @Model.imagen)
+    </p>
+    <p>
+        <label class="icon-user icon-large" for="idioma" style="width:100px">Idioma: </label>
+        @{
+            List<SelectListItem> listItems = new List<SelectListItem>();
+            listItems.Add(new SelectListItem
+            {
+                Text = "Español",
+                Value = "1"
+            });
+            listItems.Add(new SelectListItem
+            {
+                Text = "Inglés",
+                Value = "2",
+                Selected = true
+            });
+            listItems.Add(new SelectListItem
+            {
+                Text = "Francés",
+                Value = "3"
+            });
+            listItems.Add(new SelectListItem
+            {
+                Text = "Italiano",
+                Value = "4",
+                Selected = true
+            });
+            listItems.Add(new SelectListItem
+            {
+                Text = "Portugues",
+                Value = "5"
+            });
+        }
+
+        @Html.DropDownListFor(model => @model.idioma, listItems)
+
+        <label class="icon-user icon-large" for="activo" style="width:100px">Activo: </label>
+        @Html.CheckBox("activo", @Model.activo)
+    </p>
+
+    
+        <input type="submit" class="btn btn-xs btn-warning" value="Accion" />
+        
+
+        
+        <a href="/Mto/Usuarios"><input type="button" class="btn btn-xs btn-info" value="Volver" /></a>
+</form>

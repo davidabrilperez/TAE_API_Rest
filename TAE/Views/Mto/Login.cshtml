@@ -1,0 +1,23 @@
+﻿@{
+   ViewBag.Title = "Login";
+   Layout = "~/Pages/Shared/_Layout.cshtml";
+}
+
+    <form method="post" style="margin-top:30px" id="login-form" class="form" action="">
+        <h2 class="text-center text-info">Acceder al mantenimiento</h2>
+            <p>
+                <label class="icon-user icon-large" for="email" style="width:100px">Email: </label>
+                @Html.TextBox("email", null)
+            </p>
+
+            <p>
+                <label for="password" style="width:100px">Contraseña: </label>
+                @Html.Password("password", null)
+            </p>
+            <p class="btn">
+                <input type="submit" class="btn btn-info btn-md" value="Acceso" style="margin-top:30px" />
+            </p>
+   </form>
+
+
+

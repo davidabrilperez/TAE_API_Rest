@@ -1,0 +1,72 @@
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\TAE.csproj.CoreCompileInputs.cache
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\TAE.RazorAssemblyInfo.cache
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\TAE.RazorAssemblyInfo.cs
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\TAE.AssemblyInfoInputs.cache
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\TAE.AssemblyInfo.cs
+C:\Desarrollo\TAE\TAE\bin\Debug\netcoreapp2.2\TAE.deps.json
+C:\Desarrollo\TAE\TAE\bin\Debug\netcoreapp2.2\TAE.runtimeconfig.json
+C:\Desarrollo\TAE\TAE\bin\Debug\netcoreapp2.2\TAE.runtimeconfig.dev.json
+C:\Desarrollo\TAE\TAE\bin\Debug\netcoreapp2.2\TAE.dll
+C:\Desarrollo\TAE\TAE\bin\Debug\netcoreapp2.2\TAE.pdb
+C:\Desarrollo\TAE\TAE\bin\Debug\netcoreapp2.2\TAE.Views.dll
+C:\Desarrollo\TAE\TAE\bin\Debug\netcoreapp2.2\TAE.Views.pdb
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\TAE.TagHelpers.input.cache
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\TAE.TagHelpers.output.cache
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\TAE.RazorCoreGenerate.cache
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout - Copia.g.cshtml.cs
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\Razor\Views\Web\Recuperar.g.cshtml.cs
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\Razor\Views\Web\Registro.g.cshtml.cs
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\TAE.RazorTargetAssemblyInfo.cache
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\TAE.RazorTargetAssemblyInfo.cs
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\TAE.Views.pdb
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\TAE.dll
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\TAE.pdb
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\TAE.csproj.CopyComplete
+C:\Desarrollo\TAE\TAE\obj\Debug\netcoreapp2.2\TAE.csprojResolveAssemblyReference.cache
+C:\Desarrollo\TAE - copia\TAE\bin\Debug\netcoreapp2.2\TAE.deps.json
+C:\Desarrollo\TAE - copia\TAE\bin\Debug\netcoreapp2.2\TAE.runtimeconfig.json
+C:\Desarrollo\TAE - copia\TAE\bin\Debug\netcoreapp2.2\TAE.runtimeconfig.dev.json
+C:\Desarrollo\TAE - copia\TAE\bin\Debug\netcoreapp2.2\TAE.dll
+C:\Desarrollo\TAE - copia\TAE\bin\Debug\netcoreapp2.2\TAE.pdb
+C:\Desarrollo\TAE - copia\TAE\bin\Debug\netcoreapp2.2\TAE.Views.dll
+C:\Desarrollo\TAE - copia\TAE\bin\Debug\netcoreapp2.2\TAE.Views.pdb
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\TAE.csprojResolveAssemblyReference.cache
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\TAE.csproj.CoreCompileInputs.cache
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\TAE.RazorAssemblyInfo.cache
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\TAE.RazorAssemblyInfo.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\TAE.AssemblyInfoInputs.cache
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\TAE.AssemblyInfo.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\TAE.TagHelpers.input.cache
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\TAE.TagHelpers.output.cache
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\TAE.RazorCoreGenerate.cache
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\Error.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\Index.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\Privacy.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_LayoutMto.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Views\Mto\Landing.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Views\Mto\Login.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Views\Mto\Usuario.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Views\Mto\Usuarios.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Views\Web\Plantilla.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Views\Web\Recuperar.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\Razor\Views\Web\Registro.g.cshtml.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\TAE.RazorTargetAssemblyInfo.cache
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\TAE.RazorTargetAssemblyInfo.cs
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\TAE.Views.pdb
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\TAE.dll
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\TAE.pdb
+C:\Desarrollo\TAE - copia\TAE\obj\Debug\netcoreapp2.2\TAE.csproj.CopyComplete

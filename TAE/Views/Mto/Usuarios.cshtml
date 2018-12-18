@@ -1,0 +1,85 @@
+﻿@model IEnumerable<TAE.Models.Usuario>
+@{
+    ViewBag.Title = "Usuarios";
+    Layout = "~/Pages/Shared/_LayoutMto.cshtml";
+}
+<h2 class="text-center text-info" style="margin-top:50px">Usuarios</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.activo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.idioma)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.imagen)
+            </th>
+            <th> 
+                <p class="btn btn-success btn-md">
+                    <a href="Usuario/0">Crear</a>
+                </p> 
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.activo)
+                </td>
+                <td>
+                    @switch (item.idioma)
+                    {
+                        case 2:
+                            <span>Inglés</span>
+                            break;
+                        case 3:
+                            <span>Francés</span>
+                            break;
+                        case 4:
+                            <span>Italiano</span>
+                            break;
+                        case 5:
+                            <span>Portugues</span>
+                            break;
+                        default:
+                            <span>Español</span>
+                            break;
+                    }
+                    </td>
+    
+                    <td>
+                        @Html.DisplayFor(modelItem => item.imagen)
+                    </td>
+    
+                    <td>
+                        <p class="btn btn-xs btn-warning">
+                            <a href="Usuario/@item.id">Editar</a>
+                        </p>
+                        <p class="btn btn-xs btn-danger">
+                            <a href="UsuarioBorrar/@item.id">Borrar</a>
+                        </p>
+
+</td>
+    
+                </tr>
+        }
+    </tbody>
+</table>
+

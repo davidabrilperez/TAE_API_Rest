@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "TAE APP";
+}
+@Html.Raw(ViewBag.HtmlIni)
+
+@if (ViewBag.HtmlFin != null)
+{
+    @Html.Password("password", null)
+}
+
+@Html.Raw(ViewBag.HtmlFin)
